@@ -7,3 +7,5 @@
 - get_strike_accuracy("firstname","lastname") Type in any fighter name to view the fighter's strike accuracy in a pie chart
 - get_takedown_accuracy("firsyname","lastname") Type in any fighter name to view the fighter's take down accuracy in a pie chart
 - number_of_fights("field name",a number) Type in any varibale/field name (ie: Strikes) and a number N to view the N top ranked fighters by that variable 
+
+![](UFC-2-functions.gif)
